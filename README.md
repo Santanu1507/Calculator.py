@@ -1,5 +1,3 @@
-Certainly! Here's a sample README file content for the calculator project:
-
 # Calculator
 
 This is a simple calculator application built using the Tkinter library in Python. It provides a graphical user interface (GUI) for performing basic arithmetic calculations.
